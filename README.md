@@ -3,7 +3,7 @@
 <h3 align="center">Myself <b>Somya Ranjan Jena<b>, a passionate Software Engineer from the Developer world</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer 2 at FactSet in the field of Computer Science<br>🌱 I’m currently learning Python Core, Docker, System Designs, and many more.<br>💬 Ask me about Python, GitHub, Devops, DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ
+🔭 I’m currently working as a Software Engineer 2 at FactSet in the field of Computer Science. <br>🌱 I’m currently learning Python Core, Docker, System Designs, and many more.<br>💬 Ask me about Python, GitHub, Devops, DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ
 
 
 ## 🌐 Socials:
